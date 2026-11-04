@@ -8,7 +8,7 @@
 
 <h3 style="margin-top: 0px;">&gt; whoami</h3>
 
-<img src="https://media1.tenor.com/m/m6Bf66bYwzMAAAAd/asta-black-clover-black-clover.gif" width="250" alt="Asta Demon Form GIF" />
+<img src="asta.gif" width="250" alt="Asta Demon Form GIF" />
 
 </div>
 
