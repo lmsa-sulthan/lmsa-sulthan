@@ -7,7 +7,7 @@
 <!-- Gunakan garis divider biasa atau buat file divider.svg kustom jika mau -->
 <hr style="border: 1px solid #dc2626; width: 80%; opacity: 0.5;">
 
-### ✨ whoami
+### > whoami
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Hacker typing GIF" />
 
