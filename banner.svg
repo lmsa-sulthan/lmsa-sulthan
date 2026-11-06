@@ -108,7 +108,7 @@
 
     <!-- Teks Utama di Dalam Void -->
     <text class="t-ecl" x="600" y="155" text-anchor="middle">Eligos</text>
-    <text class="sub-ecl" x="600" y="210" text-anchor="middle">Lalu <tspan fill="#ef4444">✦</tspan> M. <tspan fill="#ef4444">✦</tspan> Sulthan <tspan fill="#ef4444">✦</tspan> Azmy</text>
+    <text class="sub-ecl" x="600" y="210" text-anchor="middle">Sulthan <tspan fill="#ef4444">✦</tspan> Azmy <tspan fill="#ef4444">✦</tspan> L/el</text>
     
     <!-- Cyber HUD Elements (Sudut-sudut) -->
     <g class="glitch-hud">
