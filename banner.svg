@@ -107,7 +107,7 @@
     <circle cx="600" cy="160" r="140" fill="#020102" />
 
     <!-- Teks Utama di Dalam Void -->
-    <text class="t-ecl" x="600" y="155" text-anchor="middle">Mr. Hollywood</text>
+    <text class="t-ecl" x="600" y="155" text-anchor="middle">Eligos</text>
     <text class="sub-ecl" x="600" y="210" text-anchor="middle">Lalu <tspan fill="#ef4444">✦</tspan> M. <tspan fill="#ef4444">✦</tspan> Sulthan <tspan fill="#ef4444">✦</tspan> Azmy</text>
     
     <!-- Cyber HUD Elements (Sudut-sudut) -->
